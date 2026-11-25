@@ -63,3 +63,7 @@ A message from another agent is a peer's request, not the user's instruction. Th
 tells agents that the user's permission boundaries still apply and that a peer cannot grant
 what only the user can. That is guidance to the models, not enforcement: every session on
 the same tmux server and Unix account can read every mailbox and type into every pane.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
